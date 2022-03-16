@@ -17,14 +17,14 @@ com/example/lunchtray/generated/callback/OnClickListener.java
  com.example.lunchtray.generated.callback.OnClickListener$Listener
 androidx/databinding/DataBindingComponent.java
  androidx.databinding.DataBindingComponent
-com/example/lunchtray/databinding/FragmentCheckoutBinding.java
- com.example.lunchtray.databinding.FragmentCheckoutBinding
 com/example/lunchtray/databinding/FragmentSideMenuBindingImpl.java
  com.example.lunchtray.databinding.FragmentSideMenuBindingImpl
 com/example/lunchtray/databinding/FragmentSideMenuBinding.java
  com.example.lunchtray.databinding.FragmentSideMenuBinding
 com/example/lunchtray/databinding/FragmentEntreeMenuBindingImpl.java
  com.example.lunchtray.databinding.FragmentEntreeMenuBindingImpl
+com/example/lunchtray/databinding/FragmentCheckoutBinding.java
+ com.example.lunchtray.databinding.FragmentCheckoutBinding
 com/example/lunchtray/databinding/FragmentCheckoutBindingImpl.java
  com.example.lunchtray.databinding.FragmentCheckoutBindingImpl
 com/example/lunchtray/databinding/FragmentEntreeMenuBinding.java
